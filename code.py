@@ -4,4 +4,4 @@ if any(x):
 if all(x):
     print("Not one False")
 if any(x) and not all(x):
-    print("At least ")
+    print("At least one True and one False ")
