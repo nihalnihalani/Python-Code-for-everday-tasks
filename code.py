@@ -3,3 +3,4 @@ if any(x):
     print("At least one True")
 if all(x):
     print("Not one False")
+if any(x)
