@@ -2,4 +2,5 @@ def remove_duplicates(lista):
         lista2=[]
         if lista:
             for item in lista:
-                if item not in list2a:
+                if item not in lista2:
+                    lista2.append(
