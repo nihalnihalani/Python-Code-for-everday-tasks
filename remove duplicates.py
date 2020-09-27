@@ -5,4 +5,6 @@ def remove_duplicates(lista):
                 if item not in lista2:
                     lista2.append(item)
         else:
-            return
+            return lista
+        return lista2
+print
