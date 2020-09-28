@@ -7,4 +7,4 @@ def remove_duplicates(lista):
         else:
             return lista
         return lista2
-print
+print(remove_duplicates([1,2,3,3])
