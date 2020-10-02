@@ -8,4 +8,4 @@ def solution(x):
 
 
 print(solution(-231))
-print
+print(solution(345))
